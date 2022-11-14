@@ -1,0 +1,44 @@
+{
+  "housing": [
+    {
+      "type": "house",
+      "number of rooms": 4,
+      "square": "100 square m",
+      "location": "Lviv central",
+      "parking place": "yes",
+      "yard": "yes",
+      "shops near": 1,
+      "price": "10000 grn"
+    },
+    {
+      "type": "flat",
+      "number of rooms": 2,
+      "square": "50 square m",
+      "location": "Lviv",
+      "parking place": "no",
+      "yard": "no",
+      "shops near": 4,
+      "price": "7000 grn"
+    },
+    {
+      "type": "apartment",
+      "number of rooms": "studio",
+      "square": "20 square m",
+      "location": "Lviv suburb",
+      "parking place": "no",
+      "yard": "no",
+      "shops near": 2,
+      "price": "5000 grn"
+    },
+    {
+      "type": "room",
+      "number of rooms": 1,
+      "square": "15 square m",
+      "location": "Lviv Opera Theatre",
+      "parking place": "no",
+      "yard": "park in front of theatre",
+      "shops near": 4,
+      "price": "3000 grn"
+    }
+  ]
+}
